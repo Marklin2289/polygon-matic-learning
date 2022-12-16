@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@maticnetwork/maticjs": "^3.5.0"
+  }
+}
