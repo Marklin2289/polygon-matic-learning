@@ -1,5 +1,9 @@
 {
   "devDependencies": {
-    "@maticnetwork/maticjs": "^3.5.0"
+    "@maticnetwork/maticjs": "^3.5.0",
+    "@truffle/hdwallet-provider": "^2.1.3",
+    "bignumber.js": "^9.1.1",
+    "bn.js": "^5.2.1",
+    "dotenv": "^16.0.3"
   }
 }

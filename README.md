@@ -1,5 +1,8 @@
 - Installation
+
+```
 - yarn add @maticnetwork/maticjs
+```
 
 - Importing Plasma and POS client
 
